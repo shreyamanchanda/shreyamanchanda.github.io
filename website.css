@@ -41,7 +41,7 @@ button {
 }
 
 button:hover {
-    background-color: #094f17;
+    background-color: #4f0909;
     color: rgba(252, 249, 229, 0.961);
 }
 
@@ -78,7 +78,7 @@ button:hover {
 
 
 .left-box {
-    background-color: #094f17;
+    background-color: #4f0909;
     text-align: center; 
     color: white; 
 }
