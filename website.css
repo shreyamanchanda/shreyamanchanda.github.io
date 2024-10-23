@@ -23,7 +23,7 @@ body, html {
 .navbar {
     display: flex;
     justify-content: flex-end;
-    background-color: #674d4d;
+    background-color: #2e1d1d;
     padding: 10px 0;
     position: sticky;
     top: 0;
@@ -33,7 +33,7 @@ body, html {
 
 button {
     background-color: rgba(252, 249, 229, 0.961);
-    color: #674d4d;
+    color: #2e1d1d;
     padding: 10px 20px;
     margin: 0 10px;
     border: none;
@@ -44,7 +44,7 @@ button {
 }
 
 button:hover {
-    background-color: #472626;
+    background-color: #2e1d1d;
     color: rgba(252, 249, 229, 0.961);
 }
 
@@ -150,7 +150,7 @@ button:hover {
 }
 
 .footer {
-    background-color: #674d4d;
+    background-color: #2d2222;
     color: white;
     text-align: center;
     padding: 20px 0;
